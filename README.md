@@ -99,9 +99,4 @@ List of all released versions of this app/service along with their version logs,
 ## Authors
 List of all people working on this app/service along with their respective roles & contact emails:
 
-- [Dian Sigit Prastowo](mailto:bruce.wayne@uii.ac.id) - Project Manager (Team Leader)
-- [Manggala Pramuditya W](mailto:billy.batson@uii.ac.id) - DevOps and Backend Engineer
-- [Ahmad Haris Fahmy](mailto:diana.prince@uii.ac.id) - Backend Engineer
-- [Reja Nur Rochmat](mailto:hal.jordan@uii.ac.id) - Frontend and Backend Engineer
-- [Rofi Abul Hasani](mailto:barry.allen@uii.ac.id) - UI/UX and Frontend Developer
-- [Maghfirah Suyuthi](mailto:clark.kent@uii.ac.id) - Frontend Developer
+- [Reja Nur Rochmat](mailto:hal.jordan@uii.ac.id) - Fullstack Engineer
